@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+lxml
+azure-communication-email
+azure-identity
+azure-keyvault-secrets
